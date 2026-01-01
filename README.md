@@ -16,3 +16,6 @@ A bar chart showing the population distribution of the top 10 most populous coun
 
 ### 🧠 Conclusion
 The visualization clearly compares population sizes across countries and helps in understanding global population distribution.
+
+### 📷 Bar Chart Output
+![Population Bar Chart](population_bar_chart.png)
